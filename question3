@@ -1,0 +1,40 @@
+t clone https://github.com/golfolks/question3.git
+  518  cd question3
+  519  ls
+  520  clear
+  521  touch A.txt
+  522  git add --all
+  523  git commit -m'A'
+  524  touch B.txt
+  525  git add --all
+  526  git commit -m 'B'
+  527  git branch stable
+  528  git checkout -b experiment
+  529  touch C.txt
+  530  git add --all
+  531  git commit -m 'C'
+  532  git checkout master
+  533  touch D.txt
+  534  git add --all
+  535  git commit -m 'D'
+  536  git branch goodidea
+  537  git checkout experiment
+  538  git branch whereami
+  539  touch E.txt
+  540  git add --all
+  541  git commit -m 'E'
+  542  git checkout goodidea
+  543  git checkout master
+  544  touch F.TXT
+  545  git add --all
+  546  git commit -m 'F'
+  547  GIT CHECKOUT whereami
+  548  git checkout whereami
+  549  touch G.txt
+  550  git add --all
+  551  git commit -m 'G'
+  552  GIT CHECKOUT MASTER
+  553  git checkoutmaster
+  554  git checkout master
+  555  history
+
