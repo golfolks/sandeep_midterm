@@ -1,0 +1,14 @@
+
+git commit -m "A
+git commit -M "B"
+
+git commit -M "C"
+GIT BRANCH "BESTIDEA"
+GIT COMMIT -M "G"
+git commit -M "H"
+GIT BRANCH "EXPERIMENT"
+GIT CHECKOUT "EXPERIMENT"
+git commit -M "D"
+GIT CHECKOUT -B "WILDIDEA"
+git commit -M "F"
+GIT CHECKOUT -B "BADIDEA"
