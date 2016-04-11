@@ -1,0 +1,21 @@
+st out the key difference between a centralized version control system and distributed version control system. List down any two centralized version control system and 2 distributed version control system. What are the advantages of git VCS over other VCS. What are the different states of a file in the Git VCS. 
+
+Centralized version control system: They contain a central copy located at some other place and who ever wants to save their changes has to commit to that central location so when you are traveling you cant upload the changes to central repository as it may be located in your office or you might be out of internet while you are traveling. there are diff types of centralized version control systems and they areMost advanced form control frameworks manage "changesets," which essentially are a gatherings of changes (potentially to numerous records) that ought to be dealt with as a durable entirety. CVS, SUBVERSION(SVN) AND PERFORCE these are the few centralized version control systems mentioned.
+In centralized version control system users should be very careful regarding code you can update the code where nobody can see that and as i said earlier it can be keeping change sheet ready and move it when time comes.
+
+Distributed version control system: These distributed version control systems started arriving recently may be around five years and the main advantage for this over centralized version control system is there is no need to save everything in the centralized server instead we can clone the repository which contains the entire copy of the project we are working on.
+
+key difference between centralized and decentralized: centralized we cant clone the repository  so it delays in progress of the work. But in decentralized we can clone and update the work any where and any time. pushing can be done without any internet connections so that gives an edge for decentralized version over centralized version.
+
+Advante of distributed version control system is the people can work work being online and can experiment with the code and there wont be any tension of loosing the code where every instance can be saved as you wish and thats how things work in decentralized. Due to this the most of the work can progress effectively without any issues. 
+However, in the centralized there is no such scenario of working as you wish any where and because of this major set back people are really getting into git which makes life easy.
+
+Fortunately, decentralized version gives programmers the facility to save the data and clone the data N number of times and which used to be a problem earlier.
+
+One basic misinterpretation about circulated form control frameworks is that there can't be a focal task storehouse. This is just not genuine there is nothing preventing you from saying "this duplicate of the venture is the legitimate one." This implies rather than a focal storehouse being required by the apparatuses you utilize it is currently discretionary and simply a social issue.
+
+What are the different states of a file in the Git VCS: there are three types 
+working directory
+staging are  and
+git repository 
+
